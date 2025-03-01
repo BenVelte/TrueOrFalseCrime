@@ -1,0 +1,32 @@
+{
+  "name": "trueorfalsecrime",
+  "version": "1.0.0",
+  "description": "TikTok account about AI created crime storys",
+  "homepage": "https://github.com/BenVelte/TrueOrFalseCrime#readme",
+  "bugs": {
+    "url": "https://github.com/BenVelte/TrueOrFalseCrime/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenVelte/TrueOrFalseCrime.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@ffprobe-installer/ffprobe": "^2.1.2",
+    "@google-cloud/text-to-speech": "^5.8.0",
+    "@google/generative-ai": "^0.22.0",
+    "dotenv": "^16.4.7",
+    "fluent-ffmpeg": "^2.1.3",
+    "revai-node-sdk": "^3.8.5"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}

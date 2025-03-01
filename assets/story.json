@@ -1,0 +1,12 @@
+{
+  "general": {
+    "introduction": "I will tell you two storys. One of them is real and the other one is pure fiction. Can you guess which one is real?",
+    "title_one": " Story one. ",
+    "title_two": " Story two. ",
+    "outro": " Write in the comments which one you think is real."
+  },
+  "story": {
+    "one": "In 1986, Raymond Buckey, a caretaker at a preschool in Manhattan Beach, California, was accused of multiple counts of child molestation in the McMartin preschool trial. The case gained national attention and became a symbol of the \"Satanic Panic.\" After a grueling seven-year trial, Buckey was acquitted on all counts. The investigation was riddled with leading questions and unreliable testimony from the children. The prosecution failed to prove any actual abuse. Buckey's life was irrevocably damaged, and the case remains a cautionary tale about the dangers of mass hysteria and flawed investigative methods.\n",
+    "two": "The sleepy town of Havenwood was rocked when local baker, Martha, was found dead in her meticulously clean kitchen. No signs of forced entry. Initially ruled a heart attack, Detective Reynolds noticed a faint almond scent, undetectable without specialized equipment. Martha was allergic to almonds. Her husband, a quiet accountant named George, insisted Martha hadn't baked anything with nuts in years. However, a slightly off-key recipe for apricot almond biscotti was discovered, tucked deep in her cookbook, initialed \"G.\" George, it turned out, had been slipping small doses of almond extract into her tea, a slow, undetectable poison for a wife he claimed had simply \"lost her sweetness.\"\n"
+  }
+}
